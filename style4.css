@@ -1,0 +1,11 @@
+body,
+html, {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+  background: src(C:\Users\Snk\Desktop\Udemy\Nowy folder\head.jpg) no-repeat center center fixed; 
+  
+  background-size: cover;
+
+}
